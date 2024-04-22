@@ -16,11 +16,15 @@ This application provides a streamlined solution for extracting and visualizing 
 
 ### Setup
 1. Clone this repository to your local machine:
-``` git clone https://github.com/Harshita0008/Veryfi-platform-task ```
+```
+git clone https://github.com/Harshita0008/Veryfi-platform-task
+```
 
 3. Navigate to the project directory:
 
-```cd veryfi-receipt-app```
+```
+cd veryfi-receipt-app
+```
 
 3. Install dependencies for both frontend and backend:
 
