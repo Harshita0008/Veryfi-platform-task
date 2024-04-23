@@ -1,13 +1,19 @@
 # Veryfi API Data Extraction and Visualization Application
 This application provides a streamlined solution for extracting and visualizing data from receipts using the Veryfi OCR API. It is built using the MERN stack (MongoDB, Express.js, React, and Node.js), allowing users to upload receipt images via a React frontend. The images are then sent to a backend built with Express.js, which handles communication with the Veryfi API to process the images and extract data. The extracted data is then displayed back on the frontend in an easy-to-read format.
 
+### Second Task
+The function group_anagrams organizes a list of words into groups of anagrams. It iterates through each word, sorts its letters, and uses the sorted version as a key in a dictionary. Words with the same sorted letters are grouped together. Finally, it returns a list of these groups.
+To Run:
+```
+python task.py
+```
+
 ### Features
 - Upload receipt images.
 - Extract data from receipt images using the Veryfi OCR API.
 - Display extracted data in an easy-to-read format on the frontend.
 - Efficient backend processing using Express.js.
 - Modern and user-friendly interface built with React.
-
 
 ### Prerequisites
 - Node.js and npm installed.
